@@ -13,3 +13,6 @@ _note that it's not the complete list: WIP_
 
 ## 2014
 2014-12-11 - [Bizarrolout: Automated Fuzzing for Hapi](https://www.youtube.com/watch?v=osUrvtXKvXk) - Jon Lamendola @ hapiDay Oakland
+
+## 2013
+2013-05-16 - [Introducing nodesecurity.io](https://youtu.be/UC6GJd1lDiw) - Adam Baldwin @ [NodePDX](http://nodepdx.org/)
