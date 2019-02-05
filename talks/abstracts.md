@@ -9,3 +9,7 @@ Memory is fundamentally important to any computer program. It's a finite resourc
 ## Open Source (general)
 **How to become an open source contributor in 10 steps by [Frédéric Harper](https://outofcomfortzone.net/)**  
 Participating in an open source project can be intimidating, even for experienced developers. You might start asking yourself things like ‘Where should I start? Do I have the skill set to provide valuable input?? Will my suggestion or code be well received? Does it even make sense for me to become a contributor?’ Those are all valid questions and I will help answer them all by giving you an easy 10-step program to become an OSS contributor.
+
+## Technology history / culture (general)
+**Talking Up Talked Down Technology by [Rebecca Turner](https://twitter.com/ReBeccaOrg)**  
+Turn the narrative about ""crufty old legacy technology"" on its head! From CGI scripts, to PHP, from TCL to MySQL, explore why these technologies were exciting and what led to their success. Programming as a profession is forward looking and this sometimes leads us to forget how much influence they've had on what we do today. This talk will be half history lesson, half cheer leading now unpopular technologies.
