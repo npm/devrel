@@ -9,3 +9,6 @@ _note that it's not the complete list: WIP_
 ## 2017
 
 2017-10-28 - [npm 5: Bringing package management to the future](https://youtu.be/gGMUbPXjP6U) - Kat Marchán @ [NodeConf Argentina](https://nodeconf.com.ar)
+
+## 2014
+2014-12-11 - [Bizarrolout: Automated Fuzzing for Hapi](https://www.youtube.com/watch?v=osUrvtXKvXk) - Jon Lamendola @ hapiDay Oakland
