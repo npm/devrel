@@ -27,3 +27,13 @@ This talk uses real-world examples from working in tech and leading gaming commu
 * The necessity of diverse team make-ups and respecting our differences (no "Dev vs Ops").
 * The benefits of "blameless" culture, the freedom to experiment, and the value of learning from the previous failures.
 * Strategies to foster individual and team growth, while recruiting and retaining diverse talent.	 
+
+## Browser Internals and CSS
+**It's Not Dark Magic - Pulling Back the Curtains From Your Stylesheets	By [Aimee Knight](https://twitter.com/Aimee_Knight)**  
+All too often developers are left completely puzzled when the browser renders CSS in ways they didn’t expect. It’s not dark magic though and as developers, we know that computers are just parsing our instructions. While many talks discuss how to fix common bugs, this talk will focus on the why by taking a deep dive into browser internals to see how our styles are parsed and rendered.  
+
+## Mentoring/Growing Junior Developers
+**Getting Comfortable Being Uncomfortable - Lessons Learned One Year After my Programming Bootcamp By [Aimee Knight](https://twitter.com/Aimee_Knight)**  
+There’s no denying that engineers are in high demand. Boot camps are popping up everywhere, and while they’re churning out highly motivated juniors, often it’s seniors that companies are really after. So how do we bridge this gap together? Over the past three years, I’ve gone from a former professional figure skater teaching myself basic HTML, to a full stack JavaScript developer, helping build out platforms for companies like Twitter, Facebook, LinkedIn and Warner Brothers. During that time I learned valuable lessons that helped me navigate my way through my first years as a developer, and I watched as my team grew right along with me. Working with a diverse team was full of wildly uncomfortable challenges for all of us.
+
+In this talk, we’ll discuss lessons learned one year after going from a boot camp graduate to a full-time JavaScript developer. Not only will I cover advice for newer developers, but I’ll also discuss what you can do if you’re a more advanced developer who works with newer developers. We’ll walk through effective techniques for mentoring, interviewing, and learning new technologies while striking a sustainable balance.  
