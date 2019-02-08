@@ -17,3 +17,13 @@ Participating in an open source project can be intimidating, even for experience
 ## Technology history / culture (general)
 **Talking Up Talked Down Technology by [Rebecca Turner](https://twitter.com/ReBeccaOrg)**  
 Turn the narrative about ""crufty old legacy technology"" on its head! From CGI scripts, to PHP, from TCL to MySQL, explore why these technologies were exciting and what led to their success. Programming as a profession is forward looking and this sometimes leads us to forget how much influence they've had on what we do today. This talk will be half history lesson, half cheer leading now unpopular technologies.
+
+## Team building
+**It's Dangerous To Go Alone: Leveling Up A Heroic Team	 By [Aly Fulton](https://twitter.com/sinthetix)**  
+Building and maintaining systems and the teams behind them successfully is a lot like building and maintaining successful raiding teams in massively multiplayer online role-playing games (MMORPGs). Your quest, should you choose to accept it, is to listen to the parallels and use the lessons to strengthen your biggest asset-–your team–-so they can focus on building resilient systems.
+
+This talk uses real-world examples from working in tech and leading gaming communities to highlight:
+* How to best communicate in distributed, remote environments.
+* The necessity of diverse team make-ups and respecting our differences (no "Dev vs Ops").
+* The benefits of "blameless" culture, the freedom to experiment, and the value of learning from the previous failures.
+* Strategies to foster individual and team growth, while recruiting and retaining diverse talent.	 
