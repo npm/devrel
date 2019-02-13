@@ -32,6 +32,10 @@ Participating in an open source project can be intimidating, even for experience
 **The journey of a package from the npm registry to your computer by [Jeff Lembeck](https://twitter.com/jefflembeck)**  
 Ever wonder what happens when you `npm install` something? Follow an odyssey across the wires as our hero client embarks on an adventure to bring you the software that you need, right when you ask for it. After this talk you'll have a better understanding of the course a package takes - helping you understand architecture that works at scale as well as being able to troubleshoot package installation problems.
 
+## Ruby
+**No way ruby Programmers can't use this package Manager by [Frédéric Harper](https://twitter.com/fharper)**  
+I guess you never thought about using the gem of a tool (pun intended) that is npm. You write some JavaScript code, don’t you? Why not extend the power of Rubygems and make you life easier? Let me show you how to put your development environment on steroids using this open source tool and the endless collection of packages within the Registry.
+
 ## Security
 **Securing your site like it's 1999 by [Katie Fenn](https://twitter.com/katie_fenn)**  
 "Life in the early days of the web was hard. One day your HTML is disintegrating, the next you are fighting someone named “~Ninjad00d~“ who has found a way to take over your forum system. Lessons in security in these days were hard learned.
