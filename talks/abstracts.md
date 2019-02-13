@@ -20,6 +20,10 @@ In this talk, we’ll discuss lessons learned one year after going from a boot c
 **How to become an open source contributor in 10 steps by [Frédéric Harper](https://outofcomfortzone.net/)**  
 Participating in an open source project can be intimidating, even for experienced developers. You might start asking yourself things like ‘Where should I start? Do I have the skill set to provide valuable input?? Will my suggestion or code be well received? Does it even make sense for me to become a contributor?’ Those are all valid questions and I will help answer them all by giving you an easy 10-step program to become an OSS contributor.
 
+## Package management / npm
+**The journey of a package from the npm registry to your computer by [Jeff Lembeck](https://twitter.com/jefflembeck)**  
+Ever wonder what happens when you `npm install` something? Follow an odyssey across the wires as our hero client embarks on an adventure to bring you the software that you need, right when you ask for it. After this talk you'll have a better understanding of the course a package takes - helping you understand architecture that works at scale as well as being able to troubleshoot package installation problems.
+
 ## Team building
 **It's Dangerous To Go Alone: Leveling Up A Heroic Team	by [Aly Fulton](https://twitter.com/sinthetix)**  
 Building and maintaining systems and the teams behind them successfully is a lot like building and maintaining successful raiding teams in massively multiplayer online role-playing games (MMORPGs). Your quest, should you choose to accept it, is to listen to the parallels and use the lessons to strengthen your biggest asset-–your team–-so they can focus on building resilient systems.
