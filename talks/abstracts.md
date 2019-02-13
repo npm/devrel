@@ -30,6 +30,9 @@ There’s no denying that engineers are in high demand. Boot camps are popping u
 
 In this talk, we’ll discuss lessons learned one year after going from a boot camp graduate to a full-time JavaScript developer. Not only will I cover advice for newer developers, but I’ll also discuss what you can do if you’re a more advanced developer who works with newer developers. We’ll walk through effective techniques for mentoring, interviewing, and learning new technologies while striking a sustainable balance.  
 
+## Misc
+**Personal Branding: it’s more important than you think by [Frédéric Harper](https://twitter.com/fharper)**  
+Why should you care about your personal brand? After all, it’s not like you are an actor or the lead singer for a rock band. In fact, it’s never been more important for you to think about yourself as a brand. Doing so will provide rocket fuel for your career. You’ll find better jobs and become a  “thought leader” in your industry. You’ll become known for your expertise and leadership; people will seek your advice and point of view. As a developer, there are many tools you can use to build a personal brand, and this presentation will help you learn how to get visibility, make a real impact, and achieve your goals. You don’t need to be a marketing expert or a personal branding guru— you can be yourself and get your dream job or reach the next level of your career.
 
 ## Open Source (general)
 **How to become an open source contributor in 10 steps by [Frédéric Harper](https://twitter.com/fharper)**  
