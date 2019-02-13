@@ -24,6 +24,12 @@ Participating in an open source project can be intimidating, even for experience
 **The journey of a package from the npm registry to your computer by [Jeff Lembeck](https://twitter.com/jefflembeck)**  
 Ever wonder what happens when you `npm install` something? Follow an odyssey across the wires as our hero client embarks on an adventure to bring you the software that you need, right when you ask for it. After this talk you'll have a better understanding of the course a package takes - helping you understand architecture that works at scale as well as being able to troubleshoot package installation problems.
 
+## Security
+**Securing your site like it's 1999 by [Katie Fenn](https://twitter.com/katie_fenn)**  
+"Life in the early days of the web was hard. One day your HTML is disintegrating, the next you are fighting someone named “~Ninjad00d~“ who has found a way to take over your forum system. Lessons in security in these days were hard learned.
+
+These are the true stories from the early days of the web and how forums, chat rooms and online games were turned upside down for fun and profit. If you stick around after laughing at the misfortune of online pioneers, there will also be lessons about finding your way in a world that wants to exploit your every mistake."
+
 ## Team building
 **It's Dangerous To Go Alone: Leveling Up A Heroic Team	by [Aly Fulton](https://twitter.com/sinthetix)**  
 Building and maintaining systems and the teams behind them successfully is a lot like building and maintaining successful raiding teams in massively multiplayer online role-playing games (MMORPGs). Your quest, should you choose to accept it, is to listen to the parallels and use the lessons to strengthen your biggest asset-–your team–-so they can focus on building resilient systems.
@@ -40,5 +46,3 @@ Hark! Do you hear that commotion? There are rumors you'll receive a promotion. Y
 ## Technology history / culture (general)
 **Talking Up Talked Down Technology by [Rebecca Turner](https://twitter.com/ReBeccaOrg)**  
 Turn the narrative about ""crufty old legacy technology"" on its head! From CGI scripts, to PHP, from TCL to MySQL, explore why these technologies were exciting and what led to their success. Programming as a profession is forward looking and this sometimes leads us to forget how much influence they've had on what we do today. This talk will be half history lesson, half cheer leading now unpopular technologies.
-
-
