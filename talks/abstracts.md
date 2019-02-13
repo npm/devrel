@@ -6,11 +6,14 @@ You can [request npm and even a specific employee to speak at your event](http:/
 **It's Not Dark Magic - Pulling Back the Curtains From Your Stylesheets	By [Aimee Knight](https://twitter.com/Aimee_Knight)**  
 All too often developers are left completely puzzled when the browser renders CSS in ways they didn’t expect. It’s not dark magic though and as developers, we know that computers are just parsing our instructions. While many talks discuss how to fix common bugs, this talk will focus on the why by taking a deep dive into browser internals to see how our styles are parsed and rendered.  
 
-## Front-end - JavaScript
+## Front-end - JavaScript - web
 **2029: A Javascript Odyssey by [Claudia Hernández](https://twitter.com/koste4)**  
 "The year is 2029, the browser wars are finally over. The world is in chaos but the web is stronger than ever. We saw the rise and fall of great frameworks that changed how we built things but we also lost brave fellows along the way to JS fatigue. React v30.0 was just released, ES10 is the new de facto standard for writing modern applications, and Javascript is used to control androids that dream of electric sheep.
 
 Rewind to 2019. Is WebAssembly the future of web development? How will the web look like in 10 years? The pace of technology change can be scary at times so… how can we keep up in this fast-paced world? Should we keep betting on JS? Let’s discuss together the future of the web and understand why we should be pretty excited about it!"
+
+**Building web apps that don’t suck by [Frédéric Harper](https://twitter.com/fharper)**  
+As developers, it's important to think about our users first: you need to create an awesome experience and part of the equation is to deliver quality, fast. Unfortunately, we lost the habit of being efficient with our code and assets, getting used, if you are lucky, to more and more power from our devices and internet connections. But our users want their data now. Waiting is painful, you know it! It's not an option anymore... Based on personal experience, this presentation is about concrete tips and tricks to help you optimize your masterpiece, using HTML, CSS, and JavaScript (most applicable to other languages).
 
 **Memory: Don't Forget to Take Out the Garbage by [Katie Fenn](https://twitter.com/katie_fenn)**  
 Memory is fundamentally important to any computer program. It's a finite resource, and is limited on mobile devices more than it is on desktop. JavaScript does a remarkable job of hiding this complexity from us. What's going on behind the scenes, and how can you fix problems when memory runs out?
