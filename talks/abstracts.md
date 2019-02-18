@@ -8,6 +8,9 @@ Participating in an open source project can be intimidating, even for experience
 
 
 ## Package management / npm
+**How the heck does npm work? by [Frédéric Harper](https://twitter.com/fharper)**  
+When I started working at npm I was already an npm user, but it was kind of a black box for me. It felt like driving a car without knowing what is happening under the hood. Since that day, I learned more about the architecture and understood the magic happening behind commands like "npm install". I found it interesting to learn more about a tool I use daily and it helped me see the impact it has on my work. It also opened the door to find little bits of awesomeness I didn't know about, which I thought I should share with you! This talk will be a crash course of the core concepts of the CLI and some of the most used commands. It won’t make you a mechanic, but you’ll know how to diagnose your car issues.
+
 **npx and friends: tips and tricks while using npm by [Frédéric Harper](https://twitter.com/fharper)**  
 If you are developing JavaScript, there’s a good chance that you use npm as your main package manager. If you’re like me, "npm install" is probably the only command you’re using. However, the npm CLI toolset is much more powerful and useful than I thought. In this talk, I'll share some tips on how to get the most out of npm and introduce some new tools, like npx or audit.
 
