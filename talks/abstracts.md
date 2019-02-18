@@ -51,6 +51,9 @@ I guess you never thought about using the gem of a tool (pun intended) that is n
 
 
 ## Security
+**I care about security! I use SSL.. by [Frédéric Harper](https://twitter.com/fharper)**  
+If you were to ask me if security is important for me, my answer will definitely be a "YES". However, if you ask me what I do to make my projects more secure, my answer may not be as confident as the previous one. It would probably sound something like, "Oh, I... hummm... aaa, use SSL?" and let's be honest here, it's probably the kind of answer most of developers would give. Today is the day you start to think about security as part of your development process instead of an afterthought. I'll share with you some easy tips you can use right now to ensure your masterpiece will be more secure.
+
 **Securing your site like it's 1999 by [Katie Fenn](https://twitter.com/katie_fenn)**  
 "Life in the early days of the web was hard. One day your HTML is disintegrating, the next you are fighting someone named “~Ninjad00d~“ who has found a way to take over your forum system. Lessons in security in these days were hard learned.
 
