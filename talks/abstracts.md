@@ -8,6 +8,9 @@ Participating in an open source project can be intimidating, even for experience
 
 
 ## Package management / npm
+**npx and friends: tips and tricks while using npm by [Frédéric Harper](https://twitter.com/fharper)**  
+If you are developing JavaScript, there’s a good chance that you use npm as your main package manager. If you’re like me, "npm install" is probably the only command you’re using. However, the npm CLI toolset is much more powerful and useful than I thought. In this talk, I'll share some tips on how to get the most out of npm and introduce some new tools, like npx or audit.
+
 **The journey of a package from the npm registry to your computer by [Jeff Lembeck](https://twitter.com/jefflembeck)**  
 Ever wonder what happens when you `npm install` something? Follow an odyssey across the wires as our hero client embarks on an adventure to bring you the software that you need, right when you ask for it. After this talk you'll have a better understanding of the course a package takes - helping you understand architecture that works at scale as well as being able to troubleshoot package installation problems.
 
